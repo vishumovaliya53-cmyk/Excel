@@ -1,0 +1,19 @@
+1. Conditional Formatting: Apply it to highlight the top 10 customers based on their total sales amount.
+
+2. What-If Analysis:Use a Data Table to understand how changes in discount percentage impact overall profit.
+
+3. Linear Regression: Use the Regression tool to analyze the connection between sales and profit.
+
+4. Descriptive Statistics:Use this feature to calculate the average, total, and other basic statistical values of the dataset.
+
+5. Up/Down Arrows:Apply Icon Sets to clearly indicate whether monthly sales have increased or decreased.
+
+6. Timestamp Column: Use the formula `=NOW()` to automatically display the current date and time.
+
+7. High-Value Customers: Use `INDEX + MATCH + MAX` formulas together to identify the customer with the highest sales.
+
+8. Pivot Table: Create a Pivot Table to examine total sales categorized by region and product.
+
+9. Charts: Use bar, line, and pie charts to present key performance indicators (KPIs) in a visual format.
+
+10. Dashboard: Combine key figures and charts on a single worksheet to design a clear and interactive dashboard.
